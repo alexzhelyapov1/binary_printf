@@ -1,4 +1,4 @@
-void peinrtf_binary (int n) {
+void printf_binary (int n) {
     while (n) {
         if (n & 1)
             printf("1");
