@@ -6,5 +6,5 @@ void peinrtf_binary (int n) {
             printf("0");
         n >>= 1;
     }
-    prtinf ("\n");
+    printf ("\n");
 }
